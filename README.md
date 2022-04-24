@@ -1,7 +1,6 @@
 <h1 align="center">Hey there, I'm Rebecca <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-## Skills 🧰 <br>
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+## Skills 🧰 
+
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.rstudio.org" target="_blank"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio"/> </a>
@@ -17,7 +16,6 @@
 
 
  
-<h3 align="left">Profile Views: 🧐</h3>
   
 ![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
 
