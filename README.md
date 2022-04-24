@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Rebecca <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Rebecca </h1>
 
 <h2 align='left'>Skills 🧰</h2>
 <br>
