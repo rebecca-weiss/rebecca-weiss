@@ -1,31 +1,15 @@
-# rebecca-weiss
 <h1 align="center">Hey there, I'm Rebecca <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
-<p>
-  
-- MS Student in Bioinformatics (May, 22), focus on data science/machine learning -. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
-</p>
+
 
 <div align="center">
-
-<h3 align="left">Interests:</h3>
-
-- Data Science 📊
-- Data Structures And Algorithms 💻
-- Database 
 
 <br><br>
 
 ## **Skills 🧰**<br>
-
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.rstudio.org" target="_blank"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio"/> </a>
