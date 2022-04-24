@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm Rebecca <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-## Skills 🧰 
 
+<h2 align='center'>Skills 🧰</h2>
+<br>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.rstudio.org" target="_blank"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio"/> </a>
@@ -34,5 +35,7 @@
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <br>
+  
+  
 -----
 Last Edited on: 04/24/2022
