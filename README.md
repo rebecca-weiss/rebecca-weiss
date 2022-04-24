@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Rebecca <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-## **Skills 🧰**<br>
+## Skills 🧰 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="left">
@@ -16,24 +16,13 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 
 
-## &#x1f4c8; My GitHub Stats🎯
  
 <h3 align="left">Profile Views: 🧐</h3>
   
 ![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-weiss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=rebecca-weiss&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
 
-
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rebecca-weiss&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rebecca-weiss&theme=chartreuse-dark" />
 </p>  
 
 
