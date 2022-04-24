@@ -17,8 +17,7 @@
   
   <div>
 
-  
-![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
+
 
 
 </p>  
@@ -31,5 +30,4 @@
 <br><br>
 
   
------
-Last Edited on: 04/24/2022
+![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
