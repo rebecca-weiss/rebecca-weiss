@@ -1,5 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
-<h2 align='left'>Connect with me</h2>
+<h3 align='left'>Connect with me</h3>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/rebeccajweiss33)
 <br><br>
@@ -7,7 +6,7 @@
 
 
 
-<h2 align='left'>Skills </h2>
+<h3 align='left'>Skills </h3>
 <br>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
@@ -34,3 +33,4 @@
 
  <div>
 
+![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
