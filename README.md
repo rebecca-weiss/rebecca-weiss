@@ -15,7 +15,10 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" </a>
-
+<img src="ttps://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" </a>
+<img src="" </a>
+<img src="" </a>
+  
   <div>
 <h2 align='left'>Github info</h2>
   
@@ -32,11 +35,6 @@
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/rebeccajweiss33)
 <br><br>
 
-  
-<h2 align='left'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-<br>
-  
   
 -----
 Last Edited on: 04/24/2022
