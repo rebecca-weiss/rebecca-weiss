@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Rebecca </h1>
 
-<h2 align='left'>Skills 🧰</h2>
+<h2 align='left'>Skills </h2>
 <br>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
@@ -16,8 +16,6 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" </a>
 <img src="ttps://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" </a>
-<img src="" </a>
-<img src="" </a>
   
   <div>
 <h2 align='left'>Github info</h2>
