@@ -1,5 +1,3 @@
-<h1 align="center">Hey there, I'm Rebecca </h1>
-
 <h2 align='left'>Skills </h2>
 <br>
 <p align="left">
@@ -18,11 +16,10 @@
 <img src="ttps://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" </a>
   
   <div>
-<h2 align='left'>Github info</h2>
+
   
 ![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-weiss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>  
 
