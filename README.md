@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Rebecca <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h2 align='center'>Skills 🧰</h2>
+<h2 align='left'>Skills 🧰</h2>
 <br>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
@@ -16,7 +16,8 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 
 
- 
+  <div>
+<h2 align='left'>Github info</h2>
   
 ![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
 
