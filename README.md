@@ -17,12 +17,15 @@
  <div>
    
  # Github stats  
+   ![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-weiss&hide=html&exclude_repo=HealthApp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-   ![Profile views](https://gpvc.arturio.dev/rebecca-weiss)
+  
    
    
- ## Connect with me
+ ### Connect with me
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/rebeccajweiss33)
 <br><br>
-
+  
+ 
