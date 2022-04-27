@@ -25,7 +25,7 @@
    
    
  ### Connect with me
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/rebeccajweiss33)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](http://www.linkedin.com/in/rebeccajweiss33)
 <br><br>
   
  
